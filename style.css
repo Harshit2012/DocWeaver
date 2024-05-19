@@ -1,0 +1,11 @@
+body {
+    padding-top: 0px;
+}
+
+#logo {
+    height: 100px;
+    width: 100px;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+}
